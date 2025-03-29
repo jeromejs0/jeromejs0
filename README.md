@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeromejs0
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..https://github.com/jeromejs0
 
